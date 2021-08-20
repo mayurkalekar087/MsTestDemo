@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\bin\Debug\netcoreapp3.1\sumOf2Number.exe
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\bin\Debug\netcoreapp3.1\sumOf2Number.deps.json
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\bin\Debug\netcoreapp3.1\sumOf2Number.runtimeconfig.json
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\bin\Debug\netcoreapp3.1\sumOf2Number.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\bin\Debug\netcoreapp3.1\sumOf2Number.dll
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\bin\Debug\netcoreapp3.1\sumOf2Number.pdb
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\obj\Debug\netcoreapp3.1\sumOf2Number.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\obj\Debug\netcoreapp3.1\sumOf2Number.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\obj\Debug\netcoreapp3.1\sumOf2Number.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\obj\Debug\netcoreapp3.1\sumOf2Number.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\obj\Debug\netcoreapp3.1\sumOf2Number.dll
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\obj\Debug\netcoreapp3.1\sumOf2Number.pdb
+C:\Users\ASUS\source\repos\sumOf2Number\sumOf2Number\obj\Debug\netcoreapp3.1\sumOf2Number.genruntimeconfig.cache
